@@ -1,6 +1,9 @@
+"""
+Formation Control 
+author: Mehmet Enes AVCU(avcupyrz@gmail.com)
+"""
+
 import numpy as np
-
-
 
 class formation:
 	
